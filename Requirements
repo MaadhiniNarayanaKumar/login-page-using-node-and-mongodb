@@ -1,0 +1,6 @@
+node js
+mongodb (with compass fo better)
+use npm to install required packages :
+express 
+body-parser
+mongoose
